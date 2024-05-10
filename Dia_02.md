@@ -25,3 +25,7 @@
 - Daily: Consiste em uma reúnião diaria com o objetivo de responder a três perguntas: O que fez ontem?, O que vai fazer hoje?, e existe algum impedimento?
 - Sprint Review: No final de cada sprint, o time Scrum demostra o trabalho concluído ao P.O. e outros stakeholders, recebe feedback e discute o que pode ser melhorado.
 - Sprint Retrospective: Após ao review, o time Scrum se reúne para refletir sobre o processo da sprint anterior, identifica o que funcionou bem e o que pode ser melhorado.
+
+## Referencias
+- Material de apoio,
+- https://www.youtube.com/watch?v=XfvQWnRgxG0
