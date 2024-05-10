@@ -10,6 +10,12 @@
     <img src="https://github.com/Danielpqueiroz/compass_uol/assets/112348645/1746dc95-84b7-4f08-a784-30aec44fcd20" width="700px" />
 </div>
 
+## Fluxo Scrum
+
+<div align="center">
+    <img src="https://github.com/Danielpqueiroz/compass_uol/assets/112348645/b9ccb5c1-1e38-438c-a848-c6791e45f152" width="700px" />
+</div>
+
 ## Pontos importantes
 
 - Product Backlog: Lista de todas as funcionalidades, melhorias e correções que precisam ser feitas no produto.
